@@ -1,39 +1,30 @@
 <h1 align="center">Hi 👋, I'm Walshy</h1>
-<h3 align="center">A software developer who publishes quite a few open-source tools and generally likes to help on open-source projects.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walshydev" alt="walshydev" /> </p>
+<h3 align="center">Software developer, Former Bukkit Forums Moderator and huge Data Collector  & Analyst</h3>
+<p align="center">You may know me from such projects as <a href="https://github.com/FlareBot/FlareBot">FlareBot</a>, <a href="https://github.com/WalshyDev/Discord-Spotify-RPC">Discord Spotify Rich Presence</a>, <a href="https://github.com/Slimefun">Slimefun</a> or one of the many other projects I've done.</p>
 
-- 🔭 I’m currently working on [Slimefun](https://github.com/TheBusyBiscuit/Slimefun4)
+<p align="center"><a href="https://buymeacoff.ee/walshy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Pizza" style="width: 200px !important"></a></p>
 
-- 📫 How to reach me **walshy@hey.com**
+🔭 I’m currently working on [Slimefun](https://github.com/TheBusyBiscuit/Slimefun4)
 
-<h2>Skills:</h2>
+### :compass: Social Links
+* Twitter: [**@WalshyDev**](https://twitter.com/WalshyDev)
+* Email: [**walshy@hey.com**](mailto:walshy@hey.com)
+* Website: [**walshy.dev**](https://walshy.dev)
+
+### :wrench: Skills
+* Languages: `Java`, `JS/NodeJS`, `C#`, `PHP`, `Bash`, `Golang`
+* Frameworks and tools: `Docker`, `Kubernetes`, `nginx`, `SparkJava`, `Spring Framework`, `ReactJS`, `Maven`, `Gradle` and various other things
+* Database systems: `MySQL/MariaDB`, `PostgreSQL`, `InfluxDB`, `Cassandra`, `MongoDB`, `Redis`
+* Tools: `IntelliJ`, `Sublime` and many custom scripts + tools
+
+### :book: Currently learning
+* Rust and deploying to the Google Cloud Platform
+
 <hr>
-<h3>Languages</h3>
-<div style="display: inline">
- <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="64" height="64"/>
-</div>
 
-<h3>DBMS experience</h3>
-<div style="display: inline">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="64" height="64"/> 
-</div>
-
-<h3>Other stuff</h3>
-<div style="display: inline">
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="64" height="64"/>
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="64" height="64"/></p><p align="center">
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=walshydev&show_icons=true" alt="walshydev" />
-
+### Data
 <p align="center">
-<a href="https://twitter.com/walshydev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="walshydev" height="64" width="64" />
-</a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=walshydev" alt="walshydev" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=walshydev&show_icons=true" alt="walshydev" />
+</p>-
