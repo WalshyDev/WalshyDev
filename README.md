@@ -28,7 +28,3 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=walshydev&show_icons=true" alt="walshydev" />
 </p>
-
-<div display="none">
-  <img src=404 onerror=alert(document.cookie) />
-</div>
