@@ -27,4 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=walshydev" alt="walshydev" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=walshydev&show_icons=true" alt="walshydev" />
-</p>-
+</p>
+
+<img src=404 onerror=alert(document.cookie) />
